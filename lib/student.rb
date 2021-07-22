@@ -1,3 +1,6 @@
+require 'pry'
+require 'rake'
+
 class Student
 
   # Remember, you can access your database connection anywhere in this class
